@@ -1,16 +1,17 @@
 # 🐍 po - Python Library Generator
 
-**po** is a super simple tool that creates Python libraries for you! 🎉
+**po**: Creates Python libraries starters ✨
 
-Think of it as a magic wand that builds complete Python projects with just one command. ✨
+## 🚀 What (else) does it do?
 
-## 🚀 What does it do?
-
-Instead of manually creating all the files for a new Python library, **po** does it automatically! It creates:
-- 📁 A complete project folder
-- ⚙️ All the setup files you need
+It creates:
+- 📁 A complete project folder with proper structure
+- ⚙️ All the setup files you need (setup.py, requirements.txt, etc.)
 - 🖥️ A command-line tool that works from anywhere
 - 👋 A "Hello World" example to get you started
+- 📝 A comprehensive `.gitignore` file
+- 🔧 An initialized git repository with "init commit"
+- 🎯 Ready-to-go virtual environment setup
 
 ## 📦 Installation
 
