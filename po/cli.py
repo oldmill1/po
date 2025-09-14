@@ -48,7 +48,7 @@ def main(project_name, output_dir):
         click.echo(f"")
         click.echo(f"🎮 READY TO USE:")
         click.echo(f"   cd '{project_path}'")
-        click.echo(f"   source .venv/bin/activate")
+        click.echo(f"   source .venv/bin/activate  # ← IMPORTANT: Activate venv first!")
         click.echo(f"   {project_name} --help")
         click.echo(f"")
         click.echo(f"💡 Pro tip: Everything is set up and ready to go!")
